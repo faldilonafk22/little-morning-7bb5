@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "little-morning-7bb5",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "fbb20e6e-1472-4a80-8718-800837bf8e8a",
+      "database_name": "muddy-term-e754-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
